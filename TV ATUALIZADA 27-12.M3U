@@ -1,0 +1,475 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",TV Tem Sorocaba
+http://23.111.162.2/aglobospso.m3u8?user=310612&token=218e1c345a7024e327b9e7fc02d8a1f0&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="TV ABERTA",SBT Interior
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w2073186402.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Globo RJ HD
+http://23.111.162.2/aglobohd2.m3u8?user=310612&token=442bdacc069863f0c8f668999f1a046f&e=1546009095&bands=956
+#EXTINF:-1 tvg-id="Globorj.br" group-title="GLOBO",Globo RJ
+http://23.111.162.2/agloborj.m3u8?user=310612&token=72b276f570c1e062d44a919adab839c3&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Globo SP
+http://23.111.162.2/aglobo.m3u8?user=310612&token=64b2be63d65400ef761c57616a4b17fe&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",EPTV São Carlos
+http://23.111.162.2/agloboeptvsaocarlos.m3u8?user=310612&token=cdea01a0a1c5bcab8233e6a899bf615b&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",RPC TV
+http://23.111.162.2/aglobocuritiba.m3u8?user=310612&token=cb6921a207b3a9073117cdb3946e1509&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",TV Liberal Belém
+http://23.111.162.2/aglobobelem.m3u8?user=310612&token=a492fca81f74baf427bf53a516105645&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Inter TV Cabugi
+http://23.111.162.2/aglobocabugi.m3u8?user=310612&token=e2dd080b67c0621186b9873be49be28e&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Anhanguera GO
+http://23.111.162.2/aglobogo.m3u8?user=310612&token=f51b5425819aa55ed0f3abab92e15e8c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",TV Verdes Mares
+http://23.111.162.2/agloboverdes.m3u8?user=310612&token=c33dd05b51d552c3074b3a21bee1ad31&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",TV Globo Bahia
+http://23.111.162.2/aglobobahia.m3u8?user=310612&token=2b1a972d2a1815376fe62741da8bc335&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Rede Amazônica
+http://23.111.162.2/agloboamazonica.m3u8?user=310612&token=e346d83cad83c87e6837f7310cec36fa&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",EPTV Ribeirão Preto
+http://23.111.162.2/agloboeptvrp.m3u8?user=310612&token=7dde4755534e57c95de7f18d61fd7f0b&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",Globo Nordeste
+http://23.111.162.2/agloborecife.m3u8?user=310612&token=e6694eee7517b15c279cd24ff38531dd&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",RBS TV
+http://23.111.162.2/arbs.m3u8?user=310612&token=703f25652e8e90a5efabe1f77a0285a4&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",EPTV Campinas
+http://23.111.162.2/agloboeptvcampinas.m3u8?user=310612&token=7b66948f6b86541e0553d0bf5423b980&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="GLOBO",TV Tem Bauru
+http://23.111.162.2/aglobospba.m3u8?user=310612&token=aa1ec02dc0ccb3fda8c080059cc3d547&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Logo_Band_2011.png/revision/latest?cb=20130709112612" group-title="TV ABERTA",Band HD
+http://23.111.162.2/abandhd.m3u8?user=310612&token=dc30920d27b06c34b0737c2f7bdabbf7&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Logo_Band_2011.png/revision/latest?cb=20130709112612" group-title="TV ABERTA",Band
+http://23.111.165.178/aband.m3u8?user=310612&token=a57660f077d9c9c525d6f3ef2c8a1910&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="TV ABERTA",SBT HD
+http://23.111.162.2/asbthd.m3u8?user=310612&token=96d41e7c73e5813aeb89b1ea6462a15b&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="TV ABERTA",Record HD
+http://23.111.162.2/arecordhd.m3u8?user=310612&token=a15f1aab7aa09057b1141f3a5f998899&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="TV ABERTA",SBT SD
+http://23.111.165.178/asbt.m3u8?user=310612&token=b07761d976f8acebbebbb4df41ca55ab&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="TV ABERTA",Record SD
+http://23.111.165.178/arecord.m3u8?user=310612&token=8249c518d9055f548e37b7d18df6aa19&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="TV ABERTA",Rede TV HD
+http://23.111.162.2/aredetvhd.m3u8?user=310612&token=84f80be1403b04433af11b0b9dfc433d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="TV ABERTA",Rede TV SD
+http://23.111.165.178/aredetv.m3u8?user=310612&token=106973661d42714df4f77cba322685d1&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="TV ABERTA",Canal Brasil HD
+http://23.111.162.2/acanalbrasilhd.m3u8?user=310612&token=98ba3bd32d95620e486fdf805b0c74e1&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo.png" group-title="TV ABERTA",Canal Brasil SD
+http://23.111.165.178/acanalbrasil.m3u8?user=310612&token=e33fd47ddababa8bdec12ae96c6f283f&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/nbr-logo.png" group-title="TV ABERTA",NBR SD
+http://23.111.165.178/anbr.m3u8?user=310612&token=e1b2737b23993f3cc2dbedf566fe39ae&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/5d/Redeglobo.png" group-title="TV ABERTA",Futura
+http://23.111.165.178/afutura.m3u8?user=310612&token=63df26e864be2b0f90b5c21586943c6e&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/TV_Brasil_logo.png" group-title="TV ABERTA",TV Brasil
+http://23.111.165.178/atvbrasil.m3u8?user=310612&token=56d4279f34ee8a6ff5f0fdc639400add&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="TV ABERTA",TV Cultura
+http://23.111.165.178/acultura.m3u8?user=310612&token=d4f0b3bcf372aabb446f53d7dae3820d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://www.girodoboi.com.br/wp-content/uploads/2016/11/logo_rural_degradee_S_SLOGAN3-925x576.png" group-title="TV ABERTA",Canal Rural
+http://23.111.165.178/acanalrural.m3u8?user=310612&token=102534954b3a0ca2f74bac453831fd07&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://www.imprensaemidia.com.br/wp-content/uploads/2018/04/LOGO-RBTV-Alta-resolu%C3%A7%C3%A3o.png" group-title="TV ABERTA",Rede Brasil
+http://23.111.165.178/aredebrasil.m3u8?user=310612&token=782d43691d7651440cffcc79d30aeb58&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Terra_Viva_logo.svg" group-title="TV ABERTA",Terra Viva
+http://23.111.165.178/aterraviva.m3u8?user=310612&token=38792dc85468a70e5658abc07c124531&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-premium.png" group-title="REDE TELECINE",Telecine Premium HD
+http://23.111.162.2/ftcpremiumhd.m3u8?user=310612&token=fc52baf936947afed414b419923d6ead&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-premium.png" group-title="REDE TELECINE",Telecine Premium
+http://23.111.165.178/ftcpremium.m3u8?user=310612&token=1136179d3d42f96cfb49a7ac6263a23e&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-action.png" group-title="REDE TELECINE",Telecine Action HD
+http://23.111.162.2/ftcactionhd.m3u8?user=310612&token=aa6e4c98d4d67c92c327eab63572e901&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-action.png" group-title="REDE TELECINE",Telecine Action
+http://23.111.165.178/ftcaction.m3u8?user=310612&token=d33edc60d21fadffa37a2541588000f9&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-pipoca.png" group-title="REDE TELECINE",Telecine Pipoca HD
+http://23.111.162.2/ftcpipocahd.m3u8?user=310612&token=9e623181702ef80d644b500ca005ab80&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-pipoca.png" group-title="REDE TELECINE",Telecine Pipoca
+http://23.111.165.178/ftcpipoca.m3u8?user=310612&token=22e6e2177c702a90f1a3f0bf09ec243d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-fun.png" group-title="REDE TELECINE",Telecine Fun HD
+http://23.111.162.2/ftcfunhd.m3u8?user=310612&token=b5764f37523988ec4606ae3398d852e3&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-fun.png" group-title="REDE TELECINE",Telecine Fun
+http://23.111.165.178/ftcfun.m3u8?user=310612&token=21630557635ec9d3ad097fde66afcb5f&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-touch.png" group-title="REDE TELECINE",Telecine Touch HD
+http://23.111.162.2/ftctouchhd.m3u8?user=310612&token=9112158433e1531d2d4df17b03d0eee2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-touch.png" group-title="REDE TELECINE",Telecine  Touch
+http://23.111.165.178/ftctouch.m3u8?user=310612&token=20ecdc8878cb6e419b7be6937ba36ea5&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-cult.png" group-title="REDE TELECINE",Telecine Cult HD
+http://23.111.162.2/ftcculthd.m3u8?user=310612&token=7c728896785d45c907af9b6ff67bb64f&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tc-cult.png" group-title="REDE TELECINE",Telecine Cult
+http://23.111.165.178/ftccult.m3u8?user=310612&token=3746b8dd4cf1fb2575179bcc22e62bd2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/hbo.png" group-title="REDE HBO",HBO HD
+http://23.111.162.2/fhbohd.m3u8?user=310612&token=9ed196a61996bb41d05b684081ecc3e3&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/hbo.png" group-title="REDE HBO",HBO
+http://23.111.165.178/fhbo.m3u8?user=310612&token=0e68d29fee0d239c293e3997f879f494&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/hbo2.png" group-title="REDE HBO",HBO 2 HD
+http://23.111.162.2/fhbo2hd.m3u8?user=310612&token=53f34bce9c65e996b9da157d1bb21d3e&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/hbo2.png" group-title="REDE HBO",HBO 2
+http://23.111.165.178/fhbo2.m3u8?user=310612&token=bbeca28198c520a77849baf36cc79e4c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/hbo-signature.png" group-title="REDE HBO",HBO Signature HD
+http://23.111.162.2/fhbosignaturehd.m3u8?user=310612&token=ec952135ceeb43352642e3d400d21d11&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/hbo-signature.png" group-title="REDE HBO",HBO Signature
+http://23.111.165.178/fhbosignature.m3u8?user=310612&token=f1983abd89d97fea5c1ec3ae8a129a54&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/hbo-plus.png" group-title="REDE HBO",HBO Plus HD
+http://23.111.162.2/fhboplushd.m3u8?user=310612&token=eafcf1350952f56359237a39f6a2370c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/hbo-plus.png" group-title="REDE HBO",HBO Plus
+http://23.111.165.178/fhboplus.m3u8?user=310612&token=5aaee3b142bf29fe2b80a7b8815d9a29&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="REDE HBO",HBO Family HD
+http://23.111.162.2/fhbofamilyhd.m3u8?user=310612&token=4895431f917199d277e25d27bd6772a7&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="REDE HBO",HBO Familly
+http://23.111.165.178/fhbofamilly.m3u8?user=310612&token=bd64ff30bd83ea2780a84440016536e0&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-74-canal-hbo-plus-e.png" group-title="REDE HBO",HBO Plus e
+http://23.111.165.178/fhbopluse.m3u8?user=310612&token=93f9547806d52162b36efc02b4b18a1b&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/fox.png" group-title="FILMES E SERIES",FOX HD
+http://23.111.162.2/ffoxhd.m3u8?user=310612&token=9488401a0d02592143ec91e1b1d6619b&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/fox.png" group-title="FILMES E SERIES",FOX
+http://23.111.165.178/ffox.m3u8?user=310612&token=5e0c7d32dfda4c51c7ccc82616e1fcb4&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/fox-premium.png" group-title="FILMES E SERIES",Fox Premium 1
+http://23.111.165.178/ffox1hd.m3u8?user=310612&token=567057a2eeb3c44ae6c2b004c5a2b2e9&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/fox-premium.png" group-title="FILMES E SERIES",Fox Premium 2
+http://23.111.165.178/ffoxactionhd.m3u8?user=310612&token=e2516d96c46cead3ee55bc894aa84177&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tnt.png" group-title="FILMES E SERIES",TNT HD
+http://23.111.162.2/ftnthd.m3u8?user=310612&token=003eb287a9ad67959f48dca8f2622ce2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tnt.png" group-title="FILMES E SERIES",TNT
+http://23.111.165.178/ftnt.m3u8?user=310612&token=bf759875b999f80a168edc38c63f3c94&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tnt-series.png" group-title="FILMES E SERIES",TNT Series HD
+http://23.111.162.2/ftntserieshd.m3u8?user=310612&token=36f9c9ff87595d59fd196fd8afa747c5&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tnt-series.png" group-title="FILMES E SERIES",TNT Series
+http://23.111.165.178/ftntseries.m3u8?user=310612&token=f328ce9129f487703707fff7d9ad2b67&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/cinemax.png" group-title="FILMES E SERIES",Cinemax HD
+http://23.111.162.2/fcinemaxhd.m3u8?user=310612&token=5e3001714cea72f6e7195b907338bdd1&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/cinemax.png" group-title="FILMES E SERIES",Cinemax
+http://23.111.165.178/fcinemax.m3u8?user=310612&token=6b9486eeb115280170f3611ac1f902cc&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/maxhd.png" group-title="FILMES E SERIES",MAX HD
+http://23.111.162.2/fmaxhd.m3u8?user=310612&token=b63b80ffdd57d119b1448a128548db62&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/max.png" group-title="FILMES E SERIES",MAX
+http://23.111.165.178/fmax.m3u8?user=310612&token=9de6250cc04b9f1ddad5287440a97f35&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/max-up.png" group-title="FILMES E SERIES",MAX UP HD
+http://23.111.162.2/fmaxuphd.m3u8?user=310612&token=e7f2996014cebe8137c3adf6007a76ad&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/max-up.png" group-title="FILMES E SERIES",MAX UP
+http://23.111.165.178/fmaxup.m3u8?user=310612&token=a75e0df0942325592aef591dbf872a99&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/max-prime.png" group-title="FILMES E SERIES",Max Prime HD
+http://23.111.162.2/fmaxprimehd.m3u8?user=310612&token=f8edfaa67ee450f35b028ba7bac8a96d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/max-prime.png" group-title="FILMES E SERIES",Max Prime
+http://23.111.165.178/fmaxprime.m3u8?user=310612&token=ad4c4d5475fea78765337103cbf0de07&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.claro.com.co/portal/co/recursos_contenido/77a81d2c-9157-4adf-a1f5-7b6c6e9e4443-Max-Prime-Este.png" group-title="FILMES E SERIES",Max Prime e
+http://23.111.165.178/fmaxprimee.m3u8?user=310612&token=a65ba303e3b5dec7aecec566307118d6&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/amc.png" group-title="FILMES E SERIES",AMC HD
+http://23.111.162.2/famchd.m3u8?user=310612&token=81b61e8607ab34c6153ff7021f570d15&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/amc.png" group-title="FILMES E SERIES",AMC
+http://23.111.165.178/famc.m3u8?user=310612&token=b69ddcbca9f575f5f5b4ff49f55b1f49&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/syfy.png" group-title="FILMES E SERIES",Syfy HD
+http://23.111.162.2/fsyfyhd.m3u8?user=310612&token=907a828fd98ac3a668e381bffb5a3d3f&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/syfy.png" group-title="FILMES E SERIES",SyFy
+http://23.111.165.178/fsyfy.m3u8?user=310612&token=5eea3d18a3f63a9287f4d08c0c71d822&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/universal.png" group-title="FILMES E SERIES",Studio Universal HD
+http://23.111.162.2/fstudiouniversalhd.m3u8?user=310612&token=b739af8a069cff4554737878d5a73fd0&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/universal.png" group-title="FILMES E SERIES",Studio Universal
+http://23.111.165.178/fstudiouniversal.m3u8?user=310612&token=37cd1088537a3904f3e93cc88f61a29c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://icanadvertising.com/wp-content/uploads/2014/11/TBS_Logo-whiteback.png" group-title="FILMES E SERIES",TBS HD
+http://23.111.162.2/ftbshd.m3u8?user=310612&token=f133e8f9a04b251ea0c1c420896616ae&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://icanadvertising.com/wp-content/uploads/2014/11/TBS_Logo-whiteback.png" group-title="FILMES E SERIES",TBS
+http://23.111.165.178/ftbs.m3u8?user=310612&token=82e6050942a1ade45e48f741a7351c46&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_gpruv6m5DY/Vll81jkc2_I/AAAAAAAAebs/GfRZSRzGMOk/s1600/%252Bglobosat.png" group-title="FILMES E SERIES",Mais Globosat HD
+http://23.111.162.2/fmaisglobosathd.m3u8?user=310612&token=7197e6e74e6d72c8c0f2c0733460cdf2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-_gpruv6m5DY/Vll81jkc2_I/AAAAAAAAebs/GfRZSRzGMOk/s1600/%252Bglobosat.png" group-title="FILMES E SERIES",Mais Globosat
+http://23.111.165.178/fmaisglobosat.m3u8?user=310612&token=03ba1c3c0ffae5255deb95cba8f9790d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/universal.png" group-title="FILMES E SERIES",Universal Channel HD
+http://23.111.162.2/funiversalhd.m3u8?user=310612&token=1332b678995bb4b005eae56296653246&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/universal.png" group-title="FILMES E SERIES",Universal Channel
+http://23.111.165.178/funiversalchanel.m3u8?user=310612&token=e03ad4bac6b573464437f687950c4b0d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/megapix.png" group-title="FILMES E SERIES",Megapix HD
+http://23.111.162.2/fmegapixhd.m3u8?user=310612&token=fbe9fc841311deca44cee8887d9d31e3&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/megapix.png" group-title="FILMES E SERIES",Megapix
+http://23.111.165.178/fmegapix.m3u8?user=310612&token=9243edc0e88fd4b5d6c2707b5fde004c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES E SERIES",Space HD
+http://23.111.162.2/fspacehd.m3u8?user=310612&token=8f0d0cb6c70fee3e8cb59e699ca6b34c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES E SERIES",Space
+http://23.111.165.178/fspace.m3u8?user=310612&token=5bc3259c0a1738faa595a28007f3bfaf&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/warner.png" group-title="FILMES E SERIES",Warner HD
+http://23.111.162.2/fwarnerhd.m3u8?user=310612&token=8a1459ac3a856aebcb85d0258b270a69&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/warner.png" group-title="FILMES E SERIES",Warner
+http://23.111.165.178/fwarner.m3u8?user=310612&token=da91977db469863fcf6b9400608e9a94&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/paramount.png" group-title="FILMES E SERIES",Paramount HD
+http://23.111.162.2/fparamounthd.m3u8?user=310612&token=c9164ea809d2f93ba01b66688d93924f&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/paramount.png" group-title="FILMES E SERIES",Paramount
+http://23.111.165.178/fparamount.m3u8?user=310612&token=04c489ab4e8ee9d754be2b170b3cb5a9&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/sony.png" group-title="FILMES E SERIES",Sony HD
+http://23.111.162.2/fcanalsonyhd.m3u8?user=310612&token=402cd93df5ff7a58f20267289aeb6353&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/sony.png" group-title="FILMES E SERIES",Sony
+http://23.111.165.178/fsony.m3u8?user=310612&token=f34e1a1e49afeae0819e8d27f381dbb9&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/axn.png" group-title="FILMES E SERIES",AXN HD
+http://23.111.162.2/faxnhd.m3u8?user=310612&token=b0ddc85b72c888a23546b96946d0c5a4&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/axn.png" group-title="FILMES E SERIES",AXN
+http://23.111.165.178/faxn.m3u8?user=310612&token=6aa09454d10c7825809d869a6eeb2f8c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/fx.png" group-title="FILMES E SERIES",FX HD
+http://23.111.162.2/ffxhd.m3u8?user=310612&token=4eb05a440c00a74d2470cbf562d1c0d7&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/fx.png" group-title="FILMES E SERIES",FX
+http://23.111.165.178/ffx.m3u8?user=310612&token=5075815f00801627f0c5dc810e5f9635&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="FILMES E SERIES",Comedy Central
+http://23.111.165.178/fcomedycentral.m3u8?user=310612&token=e4002b7f5cb15a3cf59a6c551a22f539&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png" group-title="FILMES E SERIES",iSAT
+http://23.111.165.178/fisat.m3u8?user=310612&token=2bfd55c183dd25d3bb4fad0f4c0aa788&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/Prime_Box_Brazil.png/revision/latest?cb=20150726135811" group-title="FILMES E SERIES",Prime Box Brasil
+http://23.111.165.178/fprimeboxbrasil.m3u8?user=310612&token=aeb0de91e7a6ccbd1d1f9e3d24b392ae&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tcm.png" group-title="FILMES E SERIES",TCM
+http://23.111.165.178/ftcm.m3u8?user=310612&token=7f27979acd2ee3b83a1eba08e3161fd0&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/sportv.png" group-title="ESPORTES",Sportv HD
+http://23.111.162.2/esportvhd.m3u8?user=310612&token=f7bd49b0eceaa664937eaff35b164a68&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/sportv.png" group-title="ESPORTES",SporTV
+http://23.111.165.178/esportv.m3u8?user=310612&token=d47bc8328a492aaee1462efa25d0ac70&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/sportv2.png" group-title="ESPORTES",Sportv 2 HD
+http://23.111.162.2/esportv2hd.m3u8?user=310612&token=32429f387cb524832d5bd90a74aa1aa2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/sportv2.png" group-title="ESPORTES",SporTV2
+http://23.111.165.178/esportv2.m3u8?user=310612&token=5ba5c3aea9be11763eb1bbc2cd17921a&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/sportv3.png" group-title="ESPORTES",Sportv 3 HD
+http://23.111.162.2/esportv3hd.m3u8?user=310612&token=f90b34fe8567b089c1384965b9cb985d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/sportv3.png" group-title="ESPORTES",SporTV3
+http://23.111.165.178/esportv3.m3u8?user=310612&token=0a620c35c04203ed71f7d4244da07d79&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ESPORTES",ESPN HD
+http://23.111.162.2/eespnhd.m3u8?user=310612&token=b66b51aa4aeaf08401b98670353e2368&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="ESPORTES",ESPN
+http://23.111.165.178/eespn.m3u8?user=310612&token=4add8195c495247492bee30649f619af&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png/revision/latest?cb=20121007054435" group-title="ESPORTES",ESPN 2 HD
+http://23.111.162.2/eespn2hd.m3u8?user=310612&token=ee120c4d870dc7a989f05cfad7e05b82&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png" group-title="ESPORTES",ESPN Brasil HD
+http://23.111.162.2/eespnbrhd.m3u8?user=310612&token=01af69abb42288754338d2ed41e78be2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png" group-title="ESPORTES",ESPN Brasil
+http://23.111.165.178/eespnbr.m3u8?user=310612&token=d410d62f119e9978fe7e6acb472d3e20&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/ESPN_HD.png/revision/latest?cb=20111129112216" group-title="ESPORTES",ESPN + HD
+http://23.111.162.2/eespnplushd.m3u8?user=310612&token=de418fff31e5f7e63769160bb3d8ce51&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://authors.appadvice.com/wp-content/appadvice-v2-media/2018/02/espn-plus_dbc67d58aaa156a0ed06d06dd4972971.png" group-title="ESPORTES",ESPN +
+http://23.111.165.178/eespnplus.m3u8?user=310612&token=a9795434105ae8e102a41a0a78f210e2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES",Fox Sport HD
+http://23.111.162.2/efoxsporthd.m3u8?user=310612&token=3d941e4e2c1c9ff6a81ab28d3e1e25ca&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES",Fox Sports
+http://23.111.165.178/efoxsports.m3u8?user=310612&token=ed971a6b9d690b672076f1b1ae3036c4&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Fox_sports_2.png/revision/latest?cb=20160123012609" group-title="ESPORTES",Fox Sport 2 HD
+http://23.111.162.2/efoxsport2hd.m3u8?user=310612&token=ccef34943af07c1e37c69d305f59aa78&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Fox_sports_2.png/revision/latest?cb=20160123012609" group-title="ESPORTES",Fox Sports 2
+http://23.111.165.178/efoxsport2.m3u8?user=310612&token=a6cb80cef0c67882f17f9113b40e2ad4&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/off.png" group-title="ESPORTES",Off HD
+http://23.111.162.2/eoffhd.m3u8?user=310612&token=bec6dc3886b0a5740508b87504bcaf96&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/off.png" group-title="ESPORTES",Off
+http://23.111.165.178/ecanaloff.m3u8?user=310612&token=9fef365fe24a5c360a80e48cdfd85ca3&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Yk9bhP.png" group-title="ESPORTES",Band Sport HD
+http://23.111.162.2/ebandsporthd.m3u8?user=310612&token=e23692e21d0cefc8f02556315971cf44&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Yk9bhP.png" group-title="ESPORTES",Band Sports
+http://23.111.165.178/ebandsports.m3u8?user=310612&token=01b870df5ca9127172860de1cf196065&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/woohoo.png" group-title="ESPORTES",WooHoo
+http://23.111.165.178/ewoohoo.m3u8?user=310612&token=945465a3be54449187b423e9414c8c8f&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTES",Combate HD
+http://23.111.162.2/pcombatehd.m3u8?user=310612&token=5f6b72de2d9ddcfb66ceb4650f9c4f05&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="ESPORTES",Combate
+http://23.111.165.178/pcombate.m3u8?user=310612&token=fbbf1eb5cccf8260478e3d13c9f5cee8&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/PFC.png/revision/latest?cb=20130519153247" group-title="PREMIER",Premiere Clubes HD
+http://23.111.162.2/ppremiereclubshd.m3u8?user=310612&token=ae637fd9cef97ec761731f5873ba3e82&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e0/PFC.png/revision/latest?cb=20130519153247" group-title="PREMIER",Premiere Clubes
+http://23.111.165.178/ppremiereclubs.m3u8?user=310612&token=4cd628429f333f0fe5e5e7fccdc7ca96&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 2 HD
+http://23.111.162.2/ppremiere2hd.m3u8?user=310612&token=f9266282e83cf14ffa3cdb05af12d2a2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 2
+http://23.111.165.178/ppremiere2.m3u8?user=310612&token=8c6c846d04c66c9f5cadf15d119febc4&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 3 HD
+http://23.111.162.2/ppremiere3hd.m3u8?user=310612&token=2c509aeea8430e3108b74b7ccb267659&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 3
+http://23.111.165.178/ppremiere3.m3u8?user=310612&token=35de09fc78daed9603deb08da98ce624&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 4 HD
+http://23.111.162.2/ppremiere4hd.m3u8?user=310612&token=380de2c0b80d57ba1702af890cf99c9d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 4
+http://23.111.165.178/ppremiere4.m3u8?user=310612&token=d3cbd6a41d1baec4db7c0c76d71bd478&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 5 HD
+http://23.111.162.2/ppremiere5hd.m3u8?user=310612&token=a6e7d85b42ff784b44c311f0fb1d7aea&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 5
+http://23.111.165.178/ppremiere5.m3u8?user=310612&token=aebd32bbfa7aa36811e95b5a604392a2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 6 HD
+http://23.111.162.2/ppremiere6hd.m3u8?user=310612&token=9fa567e86124efd57c9ee664c8c21f56&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 6
+http://23.111.165.178/ppremiere6.m3u8?user=310612&token=8ff2314844d2af91a82c3ae5e59d3f69&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 7 HD
+http://23.111.162.2/ppremiere7hd.m3u8?user=310612&token=a23ad9d9e58b1f7ede13221b0a5a60ea&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 7
+http://23.111.165.178/ppremiere7.m3u8?user=310612&token=7a7a2f89fb6f588f29041556791d71ef&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/premiere-fc-png-2.png" group-title="PREMIER",Premiere 8
+http://23.111.165.178/ppremiere8.m3u8?user=310612&token=03f86907b39e21c8c9f840ceb403749e&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="FILMES E SERIES",A&E HD
+http://23.111.162.2/vaehd.m3u8?user=310612&token=bad4d52e9aad6172b679851f259eb3cb&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png" group-title="FILMES E SERIES",A&E
+http://23.111.165.178/vae.m3u8?user=310612&token=c2b971bc9de9a68ff45a008c87d3f20c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/bis.png" group-title="FILMES E SERIES",Bis HD
+http://23.111.162.2/vbishd.m3u8?user=310612&token=fecd144193ab7fd37c7ffe371ff06dea&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/bis.png" group-title="FILMES E SERIES",Bis
+http://23.111.165.178/vbis.m3u8?user=310612&token=d5d5852328880a3a95c58d9841d6d8e0&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180412/ple/kisspng-e-television-channel-entertainment-logo-channel-5acf1127c27ee9.9089017715235197837967.jpg" group-title="FILMES E SERIES",E! HD
+http://23.111.162.2/venterteinementhd.m3u8?user=310612&token=6d3d8d6da931842451693c4059500e7b&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180412/ple/kisspng-e-television-channel-entertainment-logo-channel-5acf1127c27ee9.9089017715235197837967.jpg" group-title="FILMES E SERIES",E!
+http://23.111.165.178/venterteinement.m3u8?user=310612&token=bff773c305a9d1d4e1f9a5fa6541e94f&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/fox-life.png" group-title="FILMES E SERIES",Fox Life HD
+http://23.111.162.2/vfoxlifehd.m3u8?user=310612&token=63cc47e865fe5fee39cb00a81b77a1f2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/fox-life.png" group-title="FILMES E SERIES",Fox Life
+http://23.111.165.178/vfoxlife.m3u8?user=310612&token=9ac746a75792060839b850884d7e9626&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/gnt.png" group-title="VARIEDADES",GNT HD
+http://23.111.162.2/vgnthd.m3u8?user=310612&token=18f4d5f4048d2df26cde1a0fa002c1ea&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/gnt.png" group-title="VARIEDADES",GNT
+http://23.111.165.178/vgnt.m3u8?user=310612&token=bf898265686e4c187737a86a4a13a3da&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/supermarketsweep/images/b/b1/Logo-Lifetime-001.png/revision/latest?cb=20151229224122" group-title="VARIEDADES",Lifetime HD
+http://23.111.162.2/vlifetimehd.m3u8?user=310612&token=46d8df2eaeb05c926c44d9a64c92c6b7&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/supermarketsweep/images/b/b1/Logo-Lifetime-001.png/revision/latest?cb=20151229224122" group-title="VARIEDADES",Lifetime
+http://23.111.165.178/vlifetime.m3u8?user=310612&token=56973724ce5a0771146212ab1bdacab5&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/multishow.png" group-title="VARIEDADES",Multishow HD
+http://23.111.162.2/vmultishowhd.m3u8?user=310612&token=0addd1d9f89e7d59f5c952411193ad75&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/multishow.png" group-title="VARIEDADES",Multishow
+http://23.111.165.178/vmultishow.m3u8?user=310612&token=0c9b66129f9415421c6c9c87be582245&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/mtv.png" group-title="VARIEDADES",MTV HD
+http://23.111.162.2/vmtvhd.m3u8?user=310612&token=eb133701f49779e90ef4e578c118d0a7&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/mtv.png" group-title="VARIEDADES",MTV
+http://23.111.165.178/vmtv.m3u8?user=310612&token=0104246835db9f7fba7c38860d06bf87&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tlc.png" group-title="VARIEDADES",TLC HD
+http://23.111.162.2/vtlchd.m3u8?user=310612&token=1104c9941576ae85d32b0f3e300e0a80&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/tlc.png" group-title="VARIEDADES",TLC
+http://23.111.165.178/vtlc.m3u8?user=310612&token=e8d7f84d3466fdcfa79c7135c2c838fe&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/viva.png" group-title="VARIEDADES",Viva HD
+http://23.111.162.2/vvivahd.m3u8?user=310612&token=4e87682e2cd01997b20aa26a78d490ed&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/viva.png" group-title="VARIEDADES",VIVA
+http://23.111.165.178/vviva.m3u8?user=310612&token=9a189ba96d2d7023dd2dee1e410edbac&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="VARIEDADES",VH 1 HD
+http://23.111.162.2/vvh1hd.m3u8?user=310612&token=aab69596274b61710e8e54d0c5fad0e7&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/LOGO_VH1_MEGA_HITS.svg/1280px-LOGO_VH1_MEGA_HITS.svg.png" group-title="VARIEDADES",VH1 Mega Hits
+http://23.111.165.178/vvh1megahits.m3u8?user=310612&token=08934db055caf19bafed2708473fae30&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1280px-Logo_of_Curta%21.svg.png" group-title="VARIEDADES",Curta!
+http://23.111.165.178/vcurta.m3u8?user=310612&token=49efa567056898b92282155986f039e0&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1024px-Arte_1_logo.svg.png" group-title="VARIEDADES",Arte 1
+http://23.111.165.178/varte1.m3u8?user=310612&token=e60b080cc717775718f3ea008f873671&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://boxbrazil.tv.br/wp-content/uploads/2016/11/logo_music01.png" group-title="VARIEDADES",Music Box Brasil
+http://23.111.165.178/vmusicboxbrasil.m3u8?user=310612&token=9c0815c2d06c15e4d3d5e7988a2764a7&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Dk9IYOWTCVw/maxresdefault.jpg" group-title="VARIEDADES",Play TV
+http://23.111.165.178/vplaytv.m3u8?user=310612&token=c8296ea3afa5aa141757b529716142ea&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/animal-planet.png" group-title="DOCUMENTARIO",Animal Planet HD
+http://23.111.162.2/danimalplanethd.m3u8?user=310612&token=cab9fa6c959956a59f978617db2c87f2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/animal-planet.png" group-title="DOCUMENTARIO",Animal Planet
+http://23.111.165.178/danimalplanet.m3u8?user=310612&token=2d45599d34b7f03818715e7af05ce2a9&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/discoverycivilization.png" group-title="DOCUMENTARIO",Discovery Civilization HD
+http://23.111.162.2/ddicoverycivilizationhd.m3u8?user=310612&token=27b29bdf10b36c1ef38719ef4e0311c5&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/discovery-sciense.png" group-title="DOCUMENTARIO",Discovery Science HD
+http://23.111.162.2/ddiscsciensehd.m3u8?user=310612&token=0fa0228a19e9c01ffd63981cc8df3c02&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/discovery.png" group-title="DOCUMENTARIO",Discovery Channel HD
+http://23.111.162.2/ddiscoverychannelhd.m3u8?user=310612&token=78fa84a92baa74525ee1966b58d12244&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/discovery.png" group-title="DOCUMENTARIO",Discovery Channel
+http://23.111.165.178/ddiscovery.m3u8?user=310612&token=4a6e24b3caff4e9558686bd4820c3a30&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="DOCUMENTARIO",Discovery Home & Health HD
+http://23.111.162.2/dhomehealthhd.m3u8?user=310612&token=cefcad78a66e303f5ec202a12f9750e1&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20160812225428" group-title="DOCUMENTARIO",Discovery Home & Health
+http://23.111.165.178/dhomehealth.m3u8?user=310612&token=132e8e46353a3b29557c4facfb5ca0b5&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png/revision/latest?cb=20140810164305" group-title="DOCUMENTARIO",Discovery Turbo HD
+http://23.111.162.2/dturbohd.m3u8?user=310612&token=09f7350bc3424d238f45d0460b7dbb4d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/c/cf/Discovery_Turbo_2014_3D.png/revision/latest?cb=20140810164305" group-title="DOCUMENTARIO",Discovery Turbo
+http://23.111.165.178/ddiscoveryturbo.m3u8?user=310612&token=61ace6ee964e6b155c59ea12fdabb040&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTARIO",Discovery Theater HD
+http://23.111.162.2/ddiscoverytheaterhd.m3u8?user=310612&token=c2ff4e5688aa0802ad3971fe6f4edc58&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5b/Discovery_World_HD.png/revision/latest?cb=20151128162240" group-title="DOCUMENTARIO",Discovery World HD
+http://23.111.162.2/ddiscoveryworldhd.m3u8?user=310612&token=e6aceb3b4c3a50486ef7161a943648ab&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/121128/ID_LogoSD_Portugese_BB-01.png" group-title="DOCUMENTARIO",Investigação Discovery HD
+http://23.111.162.2/dinvestigacaohd.m3u8?user=310612&token=a2569103fc68647495e770e2483cc1db&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2016/05/05/121128/ID_LogoSD_Portugese_BB-01.png" group-title="DOCUMENTARIO",Investigação Discovery
+http://23.111.165.178/dinvestigacao.m3u8?user=310612&token=13f3d39461db29ab3fb95eeef30bc34d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/history.png" group-title="DOCUMENTARIO",History HD
+http://23.111.162.2/dhistoryhd.m3u8?user=310612&token=e777db485cf3a786c94da9d597fa4484&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/history.png" group-title="DOCUMENTARIO",History
+http://23.111.165.178/dhistory.m3u8?user=310612&token=dcb07c51a4c7320bd620788816392c48&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/h2.PNG" group-title="DOCUMENTARIO",H2 HD
+http://23.111.162.2/dh2hd.m3u8?user=310612&token=a23ea5627f3113a86dd278f6bd4e16d2&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/h2.PNG" group-title="DOCUMENTARIO",H2
+http://23.111.165.178/dh2.m3u8?user=310612&token=b6c7da880e3d69e0427b902c5d60c144&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="DOCUMENTARIO",Nat Geo HD
+http://23.111.162.2/dnatgeohd.m3u8?user=310612&token=0f473543af83dd2ddac89befcfa51839&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png" group-title="DOCUMENTARIO",Nat Geo
+http://23.111.165.178/dnatgeo.m3u8?user=310612&token=8f13c728f9d79533baa0e321857065b5&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIO",Nat Geo Wild HD
+http://23.111.162.2/dnatgeowildhd.m3u8?user=310612&token=152f4179877af1454d786e1c528b47b8&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="DOCUMENTARIO",Nat Geo Wild
+http://23.111.165.178/dnatgeowild.m3u8?user=310612&token=a0dae08cf20a6dae98ba29f8921bd648&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="DOCUMENTARIO",Food Network HD
+http://23.111.162.2/dfoodhd.m3u8?user=310612&token=7f24d047cc3a46c75c05172d1c811494&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png" group-title="DOCUMENTARIO",Food Network
+http://23.111.165.178/vfood.m3u8?user=310612&token=c13ee3fc2d2d030c1adbc8bd2c5949a3&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4Sk1VCnVers/WUH370bSreI/AAAAAAAA7bY/EeILN_PIifEmRjcRNOJxOKmnOYg_6bc1QCLcBGAs/s640/fishtv1.png" group-title="ESPORTES",Fish TV
+http://23.111.165.178/dfishtv.m3u8?user=310612&token=9a0c7ed4f78078215be766a7112f0fe3&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/TruTV.png" group-title="VARIEDADES",Tru TV
+http://23.111.165.178/dtrutv.m3u8?user=310612&token=7296d6a96e3c9e6407c3538bc3251ed9&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIL",Cartoon Network HD
+http://23.111.162.2/icartoonhd.m3u8?user=310612&token=1d1f00934bbb77651a46912e17eca7cf&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="INFANTIL",Cartoon Network
+http://23.111.165.178/icartoonnetwork.m3u8?user=310612&token=698fdbdbc570a1722b8f772131e29a58&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL",Discovery Kids HD
+http://23.111.162.2/idkidshd.m3u8?user=310612&token=b6800a5a60fc171de3ccd073fdad573b&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL",Discovery Kids
+http://23.111.165.178/idiscoverykids.m3u8?user=310612&token=41a725cc967b072b047943dee3f918d9&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disneyprincesas/images/6/6d/Disney_Channel_Logo_.png/revision/latest?cb=20160721005930&path-prefix=pt-br" group-title="INFANTIL",Disney Channel HD
+http://23.111.162.2/idisneychannelhd.m3u8?user=310612&token=a61acb95173aec356d0ea787b075fbc6&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://toppng.com/public/uploads/preview/disney-logo-11530965441h3dubhchrf.png" group-title="INFANTIL",Disney
+http://23.111.165.178/idisney.m3u8?user=310612&token=cd34e51a42caa4aed7f24fd99e94cd50&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="INFANTIL",Gloob HD
+http://23.111.162.2/igloobhd.m3u8?user=310612&token=b9904e980623772780689cedbfde9d45&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="INFANTIL",Gloob
+http://23.111.165.178/igloob.m3u8?user=310612&token=0f5ddb919d19cc13fce8a5880d9fc125&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://www.natgeokids.com.br/img/logoNG.png" group-title="INFANTIL",Nat Geo Kids HD
+http://23.111.162.2/inatgeokidshd.m3u8?user=310612&token=51049d93230dfafbc59558f5c5db2df9&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://www.natgeokids.com.br/img/logoNG.png" group-title="INFANTIL",Nat Geo Kids
+http://23.111.165.178/inatgeokids.m3u8?user=310612&token=cea9d0d4a7dcd0f56eb255e969532a27&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",Nick Jr. HD
+http://23.111.162.2/inickjrhd.m3u8?user=310612&token=586ea38dafba731103a3ff379ad57884&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" group-title="INFANTIL",Nick Jr.
+http://23.111.165.178/inickjr.m3u8?user=310612&token=382b35dbeffe5bd650a139c32f6d9a6f&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/nickfanon/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20150926035852" group-title="INFANTIL",Nickelodeon
+http://23.111.165.178/inickelodeon.m3u8?user=310612&token=91a0848ae2d3953b896c295df563ec00&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/nickfanon/images/f/fe/Nickelodeon-logo.png/revision/latest?cb=20150926035852" group-title="INFANTIL",Nickelodeon HD
+http://23.111.162.2/inickelodeonhd.m3u8?user=310612&token=4e489f987478020db533fc2f77bb4f94&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/61/BABY_TV_HD.png/revision/latest?cb=20150308151948" group-title="INFANTIL",Baby TV
+http://23.111.165.178/ibabytv.m3u8?user=310612&token=f55c0f89a0c9b4fd5b37e816a2d08da1&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/boomerang.png" group-title="INFANTIL",Boomerang
+http://23.111.165.178/iboomerang.m3u8?user=310612&token=6bfa76fff3a345f4ed1e3c1d3bc04583&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/disney-xd.png" group-title="INFANTIL",Disney XD
+http://23.111.165.178/idisneyxd.m3u8?user=310612&token=bab353cfe195cfd1268e6a27495425fa&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/disney-jr.png" group-title="INFANTIL",Disney Junior
+http://23.111.165.178/idisneyjr.m3u8?user=310612&token=76fec6ec38512747c8f806e1a6fd4c22&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/157071/tooncast.png?v=636746107925330000" group-title="INFANTIL",Tooncast
+http://23.111.165.178/itooncast.m3u8?user=310612&token=e206eb31595c98c714dbc16c8f265c4c&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TV_R%C3%A1-Tim-Bum.png/200px-TV_R%C3%A1-Tim-Bum.png" group-title="INFANTIL",TV Rá Tim Bum!
+http://23.111.165.178/iratimbum.m3u8?user=310612&token=ed67a132f5ab67f153665db016af3324&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="NOTICIAS",Globo News HD
+http://23.111.162.2/nglobonewshd.m3u8?user=310612&token=27a27f6394ee67907140fc2ddc0d5651&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png" group-title="NOTICIAS",Globo News
+http://23.111.165.178/nglobonews.m3u8?user=310612&token=0bbbc394ef27a0d58057b3bc9e5e1be5&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/bandnews-logo.png" group-title="NOTICIAS",Bandnews
+http://23.111.165.178/nbandnews.m3u8?user=310612&token=f43d156c6e5c7fcaaefb1504743ded95&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="NOTICIAS",Record News
+http://23.111.165.178/nrecordnews.m3u8?user=310612&token=e0bcdbf24cbe1af3a64528f6ced1ce35&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/137-1376269_abcnews-logo-abc-news-logo-vector.png" group-title="NOTICIAS",ABC News
+http://23.111.165.178/nabcnews.m3u8?user=310612&token=da15a9fe07717141ec5c5672b620ba79&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="TV ABERTA",TV Aparecida
+http://23.111.165.178/rtvaparecida.m3u8?user=310612&token=3152bf43f5b2f5c490af4a4590734517&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png" group-title="TV ABERTA",Canção Nova
+http://23.111.165.178/rcancaonova.m3u8?user=310612&token=a589ca6792e45f99ac2dedd8e1ae796d&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ideal_TV_logo.svg/1280px-Ideal_TV_logo.svg.png" group-title="TV ABERTA",Ideal TV
+http://23.111.165.178/ridealtv.m3u8?user=310612&token=34b33da0bf9c15b0df776971b0acd83b&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="TV ABERTA",Novo Tempo
+http://23.111.165.178/rnovotempo.m3u8?user=310612&token=dff4ad1c2f69b4116095dc9620538339&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://images.austinstone.org/logos/RBI/RBI-Austin-Logo-Black.png" group-title="ESPORTES",RBI
+http://23.111.165.178/rrbi.m3u8?user=310612&token=714c04eb4e2ad0fef31ca5983bf6f386&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a5/Logotipo_da_RIT_%282016%29.png" group-title="TV ABERTA",RIT TV
+http://23.111.165.178/rrittv.m3u8?user=310612&token=6dca891ce36dc532cead279ba78c7643&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="TV ABERTA",Rede Vida
+http://23.111.165.178/rredevida.m3u8?user=310612&token=0d071f785c6aacda739c5b404ba32c88&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://dojoartbooks.com/wp-content/uploads/2016/07/NHKworldLogo_Short.png" group-title="VARIEDADES",NHK World
+http://23.111.165.178/inhk.m3u8?user=310612&token=faf1705bf209525aad8d977524f55309&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://i0.wp.com/infocul.pt/wp-content/uploads/2016/02/Sic-Fado.png?fit=800%2C567&ssl=1" group-title="VARIEDADES",Sic Internacional
+http://23.111.165.178/isicinternacional.m3u8?user=310612&token=9f20559833e2a6cd05fe88fb43d7e3dd&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg" group-title="VARIEDADES",TVE Internacional
+http://23.111.165.178/itveint.m3u8?user=310612&token=605f656f9a39ae65f98fb49bd8692519&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png" group-title="ADULTO",Playboy HD
+http://23.111.162.2/pplayboyhd.m3u8?user=310612&token=f7bdd57fc9c8e78b80074b7ba428e8d0&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/playboy-logo.png" group-title="ADULTO",Playboy TV
+http://23.111.165.178/pplayboy.m3u8?user=310612&token=e014c453e6b8cc706556f43d0f41a42a&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/03/Supreme_logo.jpg" group-title="ADULTO",Sreme
+http://23.111.165.178/psreme.m3u8?user=310612&token=607047138ae24ee26f097097e37f63fc&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.mgconecta.com.br/wp-content/uploads/2016/05/Sexy-Hot.png" group-title="ADULTO",Sexy Hot
+http://23.111.165.178/psexyhot.m3u8?user=310612&token=e0d18c00f033e140cb1b2fba103c2b63&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="ADULTO",Venus
+http://23.111.165.178/pvenus.m3u8?user=310612&token=a9e32b085caa80d7b42f4f0908179a20&e=1546009095&bands=956
+#EXTINF:-1 tvg-logo="http://www.mgconecta.com.br/wp-content/uploads/2016/05/Sexy-Hot.png" group-title="ADULTO",Sexy Hot HD
+http://23.111.162.2/psexyhothd.m3u8?user=310612&token=21e1317733cf984b52fd90ef8c9086e1&e=1546009095&bands=956
